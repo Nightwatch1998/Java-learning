@@ -11,12 +11,9 @@ public class HashMapTest {
         Sites.put(3, "Taobao");
         Sites.put(4, "Zhihu");
         System.out.println(Sites);
-<<<<<<< HEAD
         System.out.println(Sites.get(3));
         Sites.remove(4);
         System.out.println(Sites);
         System.out.println(Sites.size());
-=======
->>>>>>> 2998d0f66f8516cbdaa2c9d9a29d41f3a242eb3c
     }
 }
